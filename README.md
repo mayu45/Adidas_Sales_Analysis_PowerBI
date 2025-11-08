@@ -1,6 +1,7 @@
+# Project Title:
 ADIDAS SALES ANALYSIS – Power BI
 
-Project Description
+# Project Description
 This project provides an in-depth analysis of Adidas sales performance across different regions, products, retailers, and time periods using Power BI.
 The dashboard helps business stakeholders understand key revenue drivers, monitor sales trends, and identify high-performing markets and product categories.
 It is designed to support data-driven decisions related to marketing, supply chain, and regional strategy.
