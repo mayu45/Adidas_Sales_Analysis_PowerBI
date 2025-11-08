@@ -56,7 +56,7 @@ These filters allow the user to dynamically explore sales insights for any regio
 
 
 # Outcome
-This dashboard provides stakeholders with: <br />
+### This dashboard provides stakeholders with: <br />
 •	Clear visibility into sales trends <br />
 •	Understanding of revenue contribution across regions, retailers, and products <br />
 •	Insights for improving forecasting, supply chain, and marketing decisions <br />
