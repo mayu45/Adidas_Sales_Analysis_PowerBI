@@ -1,5 +1,5 @@
 # Project Title
-ADIDAS SALES ANALYSIS – Power BIhhhhhhhhhhhhhhhhhhhhhh
+ADIDAS SALES ANALYSIS – Power BI
 
 
 # Project Description
