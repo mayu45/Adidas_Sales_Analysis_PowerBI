@@ -1,8 +1,6 @@
 # Project Title
 ADIDAS SALES ANALYSIS – Power BI
 
-Testing update 1
-
 
 # Project Description
 This project provides an in-depth analysis of Adidas sales performance across different regions, products, retailers, and time periods using Power BI.
