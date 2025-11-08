@@ -22,7 +22,7 @@ The dataset contains Adidas transactional sales data including invoice dates, pr
 •	Operating Margin: 40%
 
 # Dashboard Insights & Components
-# # 1. Total Sales by Month
+## 1. Total Sales by Month
 A line chart showing monthly sales trends.
 •	Highest sales in July ($31M)
 •	Lowest in October ($10M)
