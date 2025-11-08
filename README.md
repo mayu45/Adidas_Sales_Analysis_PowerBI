@@ -6,20 +6,20 @@ The dashboard helps business stakeholders understand key revenue drivers, monito
 It is designed to support data-driven decisions related to marketing, supply chain, and regional strategy.
 
 # Tools Used
-•	Power BI Desktop
-•	Power Query
-•	DAX (Data Analysis Expressions)
+•	Power BI Desktop <br />
+•	Power Query <br />
+•	DAX (Data Analysis Expressions) <br />
 
 # Dataset Source
 The dataset contains Adidas transactional sales data including invoice dates, product categories, sales amounts, operating profit, units sold, region details, and retailer performance.
 (You can add a dataset link here if required.)
 
 # Key KPIs
-•	Total Sales: $270M
-•	Operating Profit: $90M
-•	Units Sold: 687K
-•	Price per Unit: $50
-•	Operating Margin: 40%
+•	Total Sales: $270M <br />
+•	Operating Profit: $90M <br />
+•	Units Sold: 687K <br />
+•	Price per Unit: $50 <br />
+•	Operating Margin: 40% <br />
 
 # Dashboard Insights & Components
 ## 1. Total Sales by Month
