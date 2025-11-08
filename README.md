@@ -69,7 +69,7 @@ These filters allow the user to dynamically explore sales insights for any regio
 
 
 # Output Screenshot
-•	Image: <img width="1276" height="722" alt="Screenshot 2025-11-09 004143" src="https://github.com/user-attachments/assets/f95c3249-592f-4d3d-b78a-c2ba2477f82e" />
+•	Image: <img width="1309" height="739" alt="Screenshot 2025-11-09 004554" src="https://github.com/user-attachments/assets/34f53498-542e-48ec-bd11-b5dead2f4b51" />
 
 
 
